@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expedia_about_us/static/css/main.24b0cf67.css",
+    "main.js": "/expedia_about_us/static/js/main.60addeae.js",
+    "static/media/main-image-about-us.jpg": "/expedia_about_us/static/media/main-image-about-us.981ef8b3d29153b5248f.jpg",
+    "static/media/Our-team-1.jpg": "/expedia_about_us/static/media/Our-team-1.2b335432bbfde2cc09d5.jpg",
+    "static/media/why-are-we-here-img-2.jpg": "/expedia_about_us/static/media/why-are-we-here-img-2.cc783226dbaeaddb4344.jpg",
+    "static/media/why-are-we-here-img-1.jpg": "/expedia_about_us/static/media/why-are-we-here-img-1.b2d2fe8a73f750560031.jpg",
+    "static/media/Our-team-2.jpg": "/expedia_about_us/static/media/Our-team-2.212951258acaa03e7bd1.jpg",
+    "static/media/why-are-we-here-img-4.jpg": "/expedia_about_us/static/media/why-are-we-here-img-4.3be29cf9557d296deb73.jpg",
+    "static/media/why-are-we-here-img-3.jpg": "/expedia_about_us/static/media/why-are-we-here-img-3.1ce21cbd350a0a003d02.jpg",
+    "static/media/main-image-about-us-2.jpg": "/expedia_about_us/static/media/main-image-about-us-2.92be35d4c4ba1c3401b0.jpg",
+    "index.html": "/expedia_about_us/index.html",
+    "static/media/black-dot.svg": "/expedia_about_us/static/media/black-dot.575d90d7111c1185011b.svg",
+    "static/media/gray-dot.svg": "/expedia_about_us/static/media/gray-dot.19c769d56b260131347f.svg",
+    "main.24b0cf67.css.map": "/expedia_about_us/static/css/main.24b0cf67.css.map",
+    "main.60addeae.js.map": "/expedia_about_us/static/js/main.60addeae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b0cf67.css",
+    "static/js/main.60addeae.js"
+  ]
+}
